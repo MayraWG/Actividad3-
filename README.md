@@ -8,6 +8,7 @@
 
 ### 1.1 Editor de código
 ![alt text](docs/image.png)
+
 Es la zona del centro donde escribo el código. Aquí escribí el programa main.py, que hace una suma.
 
 ### 1.2 Explorador de archivos 
