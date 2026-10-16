@@ -57,6 +57,7 @@ Es el panel del depurador. Puse un breakpoint en la línea 2 de `test_suma.py` y
 
 ### 1.13 Extensiones
 ![alt text](docs/image-12.png) 
+
 Es donde se instalan herramientas extra para VS Code. Yo tengo instaladas las de Python y Jupyter, entre otras.
 
 ### 1.14 Source Control
