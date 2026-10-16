@@ -12,6 +12,7 @@ Es la zona del centro donde escribo el código. Aquí escribí el programa main.
 
 ### 1.2 Explorador de archivos 
 ![alt text](docs/image-1.png) 
+
 Está a la izquierda y muestra las carpetas y archivos del proyecto. Desde ahí creo, abro y organizo todo. 
 
 ### 1.3 Terminal integrada
