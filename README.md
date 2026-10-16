@@ -7,8 +7,7 @@
 ## 1. Componentes de VS Code 
 
 ### 1.1 Editor de código
-![alt text](docs/image.png)
-
+<img width="1213" height="236" alt="image" src="https://github.com/user-attachments/assets/60585f04-5d8c-4c52-8419-cc871872a348" />
 Es la zona del centro donde escribo el código. Aquí escribí el programa main.py, que hace una suma.
 
 ### 1.2 Explorador de archivos 
